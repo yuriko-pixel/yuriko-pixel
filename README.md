@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yuriko Darragh</h1>
 <h3 align="center">A passionate full-stack developer from Tokyo</h3>
 
-- 🌱 I’m currently learning **Node.js, Python**
+- 🌱 I’m currently learning **Node.js, Python and Typescript**
 
 - 📫 How to reach me **yurikodarragh@gmail.com**
 
-- ⚡ Fun fact **I'm a Potterian!**
+- ⚡ Fun fact **I'm a Potterian!(Harry Potter geek)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
