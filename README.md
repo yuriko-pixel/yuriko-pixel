@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuriko Darragh</h1>
 <h3 align="center">A passionate full-stack developer from Tokyo</h3>
 
-- 🌱 I’m currently learning **Node.js, Python and Typescript**
+- 🌱 I’m currently learning **Node.js, Vue.js and Typescript**
 
 - 📫 How to reach me **yurikodarragh@gmail.com**
 
