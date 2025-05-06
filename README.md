@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuriko Darragh</h1>
+<h1 align="center">Hi 👋, I'm Yuriko</h1>
 <h3 align="center">A passionate full-stack developer from Tokyo</h3>
 
 - 🌱 I’m currently learning **Flutter and Dart**
